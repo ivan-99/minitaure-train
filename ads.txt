@@ -1,0 +1,11 @@
+e-planning.net,820da8b418cdc447,DIRECT,c1ba615865ed87b2
+improvedigital.com,1556,RESELLER
+rhythmone.com,1767353092,RESELLER,a670c89d4a324e47
+sovrn.com,268876,DIRECT,fafdf38b16bf6b2b
+lijit.com,268876,DIRECT,fafdf38b16bf6b2b
+indexexchange.com,190243,DIRECT
+axonix.com,56222,RESELLER
+openx.com,541031350,RESELLER,6a698e2ec38604c6
+33across.com,0010b00002SlIKjAAN,DIRECT,bbea06d9c4d2853c
+rubiconproject.com,12186,RESELLER,0bfd66d529a55807
+pubmatic.com,156631,RESELLER,5d62403b186f2ace
